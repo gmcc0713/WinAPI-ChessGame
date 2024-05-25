@@ -1,0 +1,3 @@
+﻿  Knight.cpp
+C:\Users\고민철\Desktop\고민철 프로그래밍 자료\WinAPI\보드게임 만들기\보드게임 만들기\Knight.cpp(4,7): warning C4101: 'rect' :참조되지 않은 지역 변수입니다.
+  보드게임 만들기.vcxproj -> C:\Users\고민철\Desktop\고민철 프로그래밍 자료\WinAPI\보드게임 만들기\Debug\보드게임 만들기.exe
